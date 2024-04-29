@@ -1,0 +1,3 @@
+The input data used for testbench refers to Q2 of HW7, and the specific settings can be seen in the tb_piso_shift.vhd file.
+
+I think it should be correct :)
